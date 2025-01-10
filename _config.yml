@@ -1,55 +1,55 @@
-# Welcome to Jekyll!
+# 欢迎来到杰基尔！
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# 此配置文件用于影响整个站点的设置、值
+# 您应该设置一次，之后很少需要编辑。
+# 由于技术原因，当您使用时，该文件*不会*自​​动重新加载
+# `jekyll 服务 -l -H localhost`.如果更改此文件，请重新启动
+# 服务器进程。
 
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# 网站基本设置
+区域设置                   ：“en-US”
+标题                    ：《我の个人主页》
+标题分隔符          ：“-”
+name                      : &name "梓安"
+描述              ： &描述“个人描述”
+url                       : https : //academicpages.github.io # 您网站的基本主机名和协议，例如“https://[您的 GitHub 用户名].github.io”
+baseurl                   : ""  # 你网站的子路径，例如“/blog”
+存储库               ：“academicpages/academicpages.github.io”
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+# 网站作者 - 以下控制在侧栏上显示为作者内容的一部分的内容。
+# 如果字段为空，则不会显示图标和链接，否则将显示。
+# 可以通过编辑 /_includes/author-profile.html 来完成其他自定义
+作者：
+  # 简历信息
+  头像           ：“https://s21.ax1x.com/2025/01/09/pEChHPJ.jpg”
+  姓名             ：“梓安”
+  代词         : # 示例：“她/她”  
+  bio               : #“左侧边栏的简短简介”
+  位置         ：#“地球”
+  雇主         ：#“红砖大学”
+  网址              ：# 网址
+  邮箱            ：“2237696335@qq.com” 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # 学术网站
+  arxiv             : # URL - 使用指向您个人资料的正确链接进行更新
+  googlescholar     : # "https://scholar.google.com/itations?user=PS_CX0AAAAAJ"
+  影响故事      ：# URL
+  orcid             : # "http://orcid.org/yourorcidurl"
+  语义：# URL
+  pubmed             : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  研究之门：# URL
+  范围：#网址
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # 存储库和软件开发
+  bitbucket          : # 用户名 - 使用您在网站上的用户名进行更新
+  codepen            : # 用户名
+  运球         : # 用户名
+  github             : #“学术页面”
+  kaggle             : # 用户名  
+  stackoverflow      : # 用户编号或用户编号和名称（即使用“1”或“1/jeff-atwood”）    
 
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # 社交媒体
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -79,13 +79,13 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    标题：“期刊文章”    
+  会议：
+    标题：“会议论文”
 
-# Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+# 站点设置
+teaser                    :   # 放置在 /images/ 中的预告片后备预告片图像的文件名，.eg "500x300.png"
+breadcrumbs               : false # true, false (默认)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
