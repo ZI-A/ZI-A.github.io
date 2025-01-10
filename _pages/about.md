@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
