@@ -23,7 +23,8 @@ redirect_from:
 
 ## 免费工具
 
-[网页版PS](https://www.photopea.com)
+[网页版PS](https://www.photopea.com/)
+[30工具箱](https://www.30aitool.com/)
 
 ## AI工具
 
