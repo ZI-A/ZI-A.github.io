@@ -23,6 +23,8 @@ redirect_from:
 
 ## 免费工具
 
+[网页版PS](https://www.photopea.com)
+
 ## 页脚
 
 [回到顶部](#素材网站)
