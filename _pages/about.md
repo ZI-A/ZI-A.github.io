@@ -19,7 +19,7 @@ redirect_from:
 
 ## 免费工具
 
-[花瓣网](https://m.huaban.com)<br>
+[颜色代码表](https://www.ysdaima.com/ “一站式颜色解决方案”)<br>
 [花瓣网](https://m.huaban.com)<br>
 [花瓣网](https://m.huaban.com)<br>
 [花瓣网](https://m.huaban.com)<br>
