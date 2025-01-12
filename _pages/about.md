@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[`素材网站`](#素材网站) [`免费工具`](#免费工具) [`页脚`](#页脚)
+[`素材网站`](#素材网站) [`配色方案`](#配色方案) [`页脚`](#页脚)
 
 ## 素材网站
 
@@ -17,41 +17,9 @@ redirect_from:
 [微软Bing图库](https://www.bing.com/hp)
 [Veer免费图库](https://www.veer.com/)
 
-## 免费工具
+## 配色方案
 
 [颜色代码表](https://www.ysdaima.com/)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
-[花瓣网](https://m.huaban.com)<br>
 [花瓣网](https://m.huaban.com)<br>
 [花瓣网](https://m.huaban.com)<br>
 [花瓣网](https://m.huaban.com)<br>
