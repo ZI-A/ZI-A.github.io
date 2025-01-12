@@ -10,7 +10,7 @@ redirect_from:
 
 ## 素材网站
 
-![花瓣网](https://s21.ax1x.com/2025/01/12/pEPUil9.jpg width='25px' height='25px') [花瓣网](https://huaban.com/follow)
+![花瓣网](https://s21.ax1x.com/2025/01/12/pEPUil9.jpg) [花瓣网](https://huaban.com/follow)
 [众图网](https://www.ztupic.com/)
 [昵图网](https://www.nipic.com/)
 [站酷](https://www.zcool.com.cn/)
