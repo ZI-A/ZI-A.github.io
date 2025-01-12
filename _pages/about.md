@@ -25,6 +25,10 @@ redirect_from:
 
 [网页版PS](https://www.photopea.com)
 
+## AI工具
+
+[Midjourney](https://www.midjourney.com/)
+
 ## 页脚
 
 [回到顶部](#素材网站)
