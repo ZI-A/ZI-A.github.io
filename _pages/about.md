@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### 导航栏
+## 导航栏
 
 [`素材网站`](#素材网站) [`配色方案`](#配色方案) [`免费工具`](#免费工具) [`页脚`](#页脚)
 
@@ -37,6 +37,6 @@ redirect_from:
 
 [Midjourney](https://www.midjourney.com/)
 
-#### 页脚
+## 页脚
 
 [回到顶部](#导航栏)
